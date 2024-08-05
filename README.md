@@ -31,19 +31,25 @@ You can install the required libraries using:
 pip install pandas matplotlib seaborn
  ```
 
-##Usage
-Clone the repository:
+## Usage
 
-git clone https://github.com/YOUR_USERNAME/hotel-booking-analysis.git  
-cd hotel-booking-analysis  
-Download the dataset hotel_bookings 2.csv and place it in the project directory.
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/YOUR_USERNAME/hotel-booking-analysis.git
+    cd hotel-booking-analysis
+    ```
 
-Open a Jupyter Notebook or run the script directly using Python.
-Run the code to visualize hotel booking patterns and analyze various factors affecting cancellations and ADR.
+2. Download the dataset `hotel_bookings_2.csv` and place it in the project directory.
 
-##Visualizations Included
-Bar chart depicting total reservations based on cancellation status.
-Count plots showing cancellation status across different hotel types.
-Line plots comparing average daily rates of City vs Resort hotels.
-Monthly breakdown of cancellations and affecting ADR.
-Pie chart showing the top 10 countries with the highest cancellation rates.
+3. Open a Jupyter Notebook or run the script directly using Python.
+
+4. Run the code to visualize hotel booking patterns and analyze various factors affecting cancellations and ADR.
+
+## Visualizations Included
+
+- Bar chart depicting total reservations based on cancellation status.
+- Count plots showing cancellation status across different hotel types.
+- Line plots comparing average daily rates of City vs Resort hotels.
+- Monthly breakdown of cancellations and affecting ADR.
+- Pie chart showing the top 10 countries with the highest cancellation rates.
+
