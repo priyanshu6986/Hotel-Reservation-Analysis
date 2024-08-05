@@ -1,4 +1,5 @@
 #Hotel Reservation Analysis
+
 ##Description
 This project analyzes hotel booking data to understand trends related to reservations, cancellations, and average daily rates (ADR). The dataset is sourced from hotel bookings and contains critical information that can help hotel management improve booking strategies and understand customer behavior.
 
