@@ -29,7 +29,7 @@ To run this project, you need Python and the following libraries:
 You can install the required libraries using:
 ```bash
 pip install pandas matplotlib seaborn
- 
+ ```
 
 ##Usage
 Clone the repository:
